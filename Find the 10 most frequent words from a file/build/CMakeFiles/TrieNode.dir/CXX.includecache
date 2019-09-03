@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/TrieNode.h
+iostream
+-
+string
+-
+vector
+-
+
+/home/cl/Desktop/hello_interview/src/TrieNode.cpp
+assert.h
+-
+TrieNode.h
+/home/cl/Desktop/hello_interview/src/TrieNode.h
+

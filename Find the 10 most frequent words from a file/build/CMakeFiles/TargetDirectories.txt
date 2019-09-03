@@ -1,0 +1,4 @@
+/home/cl/Desktop/hello_interview/build/CMakeFiles/rebuild_cache.dir
+/home/cl/Desktop/hello_interview/build/CMakeFiles/edit_cache.dir
+/home/cl/Desktop/hello_interview/build/CMakeFiles/main.dir
+/home/cl/Desktop/hello_interview/build/CMakeFiles/TrieNode.dir

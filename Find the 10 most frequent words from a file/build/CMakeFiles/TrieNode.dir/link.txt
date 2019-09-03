@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -g  -shared -Wl,-soname,libTrieNode.so -o libTrieNode.so CMakeFiles/TrieNode.dir/src/TrieNode.cpp.o 
